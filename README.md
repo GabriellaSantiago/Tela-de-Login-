@@ -1,4 +1,4 @@
-# Tela-de-Login | HTML & CSS
+# Tela de Login | HTML & CSS
 
 Este é um projeto de Tela de Login desenvolvido com HTML e CSS, como parte do aprendizado no DevClub.
 
