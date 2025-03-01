@@ -15,7 +15,7 @@ HTML5 | CSS3
 ✔️ Design moderno e intuitivo
 
 
-🎨 Preview
+
 
 ![Image](https://github.com/user-attachments/assets/bc8d33d3-7a21-48d6-a463-0156c41f7441)
 
